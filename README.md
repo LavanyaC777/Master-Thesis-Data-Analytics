@@ -1,4 +1,4 @@
-# M.Sc. Thesis — Data Analytics
+# M.Sc. Thesis — Data Analytics - Lavanya Chinthakayala
 University of Hildesheim, 2021
 
 **Title:** Advanced Vision and Memory for traditional World Models
